@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  fhir-ig-publisher:
+    build: .
+    volumes:
+      - ./input:/app/input
+      - ./output:/app/output
+      - ./input/packages/rnds#1.0.0:/root/.fhir/packages/rnds#1.0.0

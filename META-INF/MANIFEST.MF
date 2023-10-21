@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.8.8
+Built-By: vsts
+Build-Jdk: 11.0.19
+Class-Path: org.hl7.fhir.publisher.core-1.3.23.jar ant-1.10.12.jar ant-l
+ auncher-1.10.12.jar cql-1.5.12.jar antlr4-runtime-4.9.1.jar model-1.5.1
+ 2.jar jaxb2-basics-0.12.0.jar jaxb2-basics-runtime-0.12.0.jar jaxb2-bas
+ ics-tools-0.12.0.jar javaparser-1.0.11.jar jakarta.xml.bind-api-2.3.3.j
+ ar org.eclipse.persistence.moxy-2.7.7.jar org.eclipse.persistence.core-
+ 2.7.7.jar org.eclipse.persistence.asm-2.7.7.jar commons-lang3-3.10.jar 
+ elm-1.5.12.jar cql-to-elm-1.5.12.jar jopt-simple-4.7.jar javax.json-1.1
+ .4.jar quick-1.5.12.jar qdm-1.5.12.jar commons-beanutils-1.9.4.jar comm
+ ons-logging-1.2.jar commons-collections-3.2.2.jar jaxb-impl-2.4.0-b1808
+ 30.0438.jar jaxb-core-2.3.0.1.jar jaxb-api-2.3.1.jar javax.activation-a
+ pi-1.2.0.jar javax.activation-1.2.0.jar jackson-databind-2.14.0.jar jac
+ kson-annotations-2.14.0.jar jackson-core-2.14.0.jar jackson-module-jaxb
+ -annotations-2.14.0.jar jakarta.activation-api-1.2.2.jar eclipselink-2.
+ 6.0.jar javax.persistence-2.1.0.jar commonj.sdo-2.1.1.jar validation-ap
+ i-1.1.0.Final.jar js-22.2.0.jar regex-22.2.0.jar truffle-api-22.2.0.jar
+  graal-sdk-22.2.0.jar js-scriptengine-22.2.0.jar org.hl7.fhir.r5-6.0.21
+ .jar hapi-fhir-base-6.4.1.jar jackson-datatype-jsr310-2.14.1.jar common
+ s-text-1.10.0.jar jcl-over-slf4j-2.0.3.jar jsr305-3.0.2.jar org.hl7.fhi
+ r.convertors-6.0.21.jar org.hl7.fhir.dstu2-6.0.21.jar org.hl7.fhir.dstu
+ 2016may-6.0.21.jar org.hl7.fhir.dstu3-6.0.21.jar org.hl7.fhir.r4-6.0.21
+ .jar org.hl7.fhir.r4b-6.0.21.jar Saxon-HE-9.8.0-15.jar org.hl7.fhir.val
+ idation-6.0.21.jar xpp3-1.1.4c.jar xpp3_xpath-1.1.4c.jar gson-2.8.9.jar
+  commons-collections4-4.4.jar thymeleaf-3.0.9.RELEASE.jar ognl-3.1.12.j
+ ar javassist-3.20.0-GA.jar attoparser-2.0.4.RELEASE.jar unbescape-1.1.5
+ .RELEASE.jar guava-32.0.1-jre.jar failureaccess-1.0.1.jar listenablefut
+ ure-9999.0-empty-to-avoid-conflict-with-guava.jar checker-qual-3.33.0.j
+ ar error_prone_annotations-2.18.0.jar j2objc-annotations-2.8.jar org.hl
+ 7.fhir.utilities-6.0.21.jar icu4j-72.1.jar commons-net-3.9.0.jar ucum-1
+ .0.3.jar logback-classic-1.2.9.jar logback-core-1.2.9.jar slf4j-api-1.7
+ .32.jar commons-exec-1.3.jar ST4-4.0.4.jar antlr-runtime-3.3.jar string
+ template-3.2.1.jar antlr-2.7.7.jar commons-compress-1.21.jar httpclient
+ -4.5.13.jar httpcore-4.4.13.jar commons-codec-1.11.jar commonmark-0.17.
+ 0.jar commonmark-ext-gfm-tables-0.17.0.jar txtmark-0.13.jar poi-5.2.1.j
+ ar commons-math3-3.6.1.jar commons-io-2.11.0.jar SparseBitSet-1.2.jar l
+ og4j-api-2.17.1.jar poi-ooxml-5.2.1.jar curvesapi-1.07.jar poi-ooxml-fu
+ ll-5.2.1.jar xmlbeans-5.0.3.jar okhttp-4.10.0.jar okio-jvm-3.0.0.jar ko
+ tlin-stdlib-jdk8-1.5.31.jar kotlin-stdlib-jdk7-1.5.31.jar kotlin-stdlib
+ -common-1.5.31.jar kotlin-stdlib-1.6.20.jar annotations-16.0.1.jar plan
+ tuml-mit-1.2023.9.jar
+Main-Class: org.hl7.fhir.igtools.publisher.Publisher
+

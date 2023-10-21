@@ -1,0 +1,32 @@
+Alias: ICHOM-EQ5D3L = https://connect.ichom.org/patient-centered-outcome-measures/stroke/eq5d3l/
+
+ValueSet: MolicAVC_EQ5D3L_ValueSet
+Id: molicavc-eq5d3l-valueset
+Title: "ValueSet of EQ-5D-3L Response Questionnaire"
+Description: "This ValueSet defines the response values for the EQ-5D-3L Questionnaire."
+
+* ICHOM-EQ5D3L#1 "I have no problems in walking about."
+* ICHOM-EQ5D3L#2 "I have some problems in walking about."
+* ICHOM-EQ5D3L#3 "I am confined to bed."
+* ICHOM-EQ5D3L#4 "I have no problems with self-care."
+* ICHOM-EQ5D3L#5 "I have some problems washing or dressing myself."
+* ICHOM-EQ5D3L#6 "I am unable to wash or dress myself."
+* ICHOM-EQ5D3L#7 "I have no problems with performing my usual activities."
+* ICHOM-EQ5D3L#8 "I have some problems with performing my usual activities."
+* ICHOM-EQ5D3L#9 "I am unable to perform my usual activities."
+* ICHOM-EQ5D3L#10 "I have no pain or discomfort."
+* ICHOM-EQ5D3L#11 "I have moderate pain or discomfort."
+* ICHOM-EQ5D3L#12 "I have extreme pain or discomfort."
+* ICHOM-EQ5D3L#13 "I am not anxious or depressed."
+* ICHOM-EQ5D3L#14 "I am moderately anxious or depressed."
+* ICHOM-EQ5D3L#15 "I am extremely anxious or depressed."
+* ICHOM-EQ5D3L#16 "From 0 to 10."
+* ICHOM-EQ5D3L#17 "From 11 to 20."
+* ICHOM-EQ5D3L#18 "From 21 to 30."
+* ICHOM-EQ5D3L#19 "From 31 to 40."
+* ICHOM-EQ5D3L#20 "From 41 to 50."
+* ICHOM-EQ5D3L#21 "From 51 to 60."
+* ICHOM-EQ5D3L#22 "From 61 to 70."
+* ICHOM-EQ5D3L#23 "From 71 to 80."
+* ICHOM-EQ5D3L#24 "From 81 to 90."
+* ICHOM-EQ5D3L#25 "From 91 to 100."

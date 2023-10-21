@@ -1,0 +1,31 @@
+Alias: ICHOM-VR12 = https://connect.ichom.org/patient-centered-outcome-measures/stroke/vr12/
+
+ValueSet: MolicAVC_VR12_ValueSet
+Id: molicavc-vr12-valueset
+Title: "ValueSet of VR-12 Response Questionnaire"
+Description: "This ValueSet defines the response values for the VR-12 (Veterans RAND 12 Item Health Survey)."
+
+* ICHOM-VR12#1 "Excellent"
+* ICHOM-VR12#2 "Very Good"
+* ICHOM-VR12#3 "Good"
+* ICHOM-VR12#4 "Fair"
+* ICHOM-VR12#5 "Poor"
+* ICHOM-VR12#6 "All of the time"
+* ICHOM-VR12#7 "Most of the time"
+* ICHOM-VR12#8 "A good bit of the time"
+* ICHOM-VR12#9 "Some of the time"
+* ICHOM-VR12#10 "A little of the time"
+* ICHOM-VR12#11 "None of the time"
+* ICHOM-VR12#12 "Yes, limited a lot"
+* ICHOM-VR12#13 "Yes, limited a little"
+* ICHOM-VR12#14 "No, not limited at all"
+* ICHOM-VR12#15 "Much better"
+* ICHOM-VR12#16 "Slightly better"
+* ICHOM-VR12#17 "About the same"
+* ICHOM-VR12#18 "Slightly worse"
+* ICHOM-VR12#19 "Much worse"
+* ICHOM-VR12#20 "No, none of the time"
+* ICHOM-VR12#21 "Yes, a little of the time"
+* ICHOM-VR12#22 "Yes, some of the time"
+* ICHOM-VR12#23 "Yes, most of the time"
+* ICHOM-VR12#24 "Yes, all of the time"

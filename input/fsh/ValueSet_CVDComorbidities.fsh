@@ -1,0 +1,31 @@
+Alias: ICHOM-CVDCOMORBIDITIES = https://connect.ichom.org/patient-centered-outcome-measures/stroke/cvdcomorbidities/
+
+ValueSet: CardiovascularComorbidities_ValueSet
+Id: molicavc-cvdcomorbidities-valueset
+Title: "ValueSet of Cardiovascular Comorbidities"
+Description: " Indicate which comorbidities the patient is living with. Select all conditions that apply at every annual follow-up."
+
+* ICHOM-CVDCOMORBIDITIES#0 "No other diseases"
+* ICHOM-CVDCOMORBIDITIES#1 "Heart Disease (angina, heart attack, or HF)"
+* ICHOM-CVDCOMORBIDITIES#2 "High Blood Pressure"
+* ICHOM-CVDCOMORBIDITIES#3 "Atrial Fibrillation or Flutter"
+* ICHOM-CVDCOMORBIDITIES#4 "Chronic Pulmonary Disease (Asthma, Chronic Bronchitis, COPD, Emphysema)"
+* ICHOM-CVDCOMORBIDITIES#5 "Diabetes"
+* ICHOM-CVDCOMORBIDITIES#6 "Peripheral Artery Disease"
+* ICHOM-CVDCOMORBIDITIES#7 "Myocardial Infarction"
+* ICHOM-CVDCOMORBIDITIES#8 "Obesity"
+* ICHOM-CVDCOMORBIDITIES#9 "Stroke"
+* ICHOM-CVDCOMORBIDITIES#10 "Ulcer or Stomach disease"
+* ICHOM-CVDCOMORBIDITIES#11 "Renan Insufficiency"
+* ICHOM-CVDCOMORBIDITIES#12 "Liver Disease"
+* ICHOM-CVDCOMORBIDITIES#13 "Anemia or other blood disease"
+* ICHOM-CVDCOMORBIDITIES#14 "Cancer/Other Cancer in last 5 years"
+* ICHOM-CVDCOMORBIDITIES#15 "AIDS/Immunodeficiency"
+* ICHOM-CVDCOMORBIDITIES#16 "Presence/ History of Depression"
+* ICHOM-CVDCOMORBIDITIES#17 "Anxiety or Neuroses"
+* ICHOM-CVDCOMORBIDITIES#18 "Presence/History of Psychotic Mental Illness (e.g., Schizophrenia)"
+* ICHOM-CVDCOMORBIDITIES#19 "Substance Abuse"
+* ICHOM-CVDCOMORBIDITIES#20 "Osteoarthritis, degenerative arthritis"
+* ICHOM-CVDCOMORBIDITIES#21 "Rheumatoid Arthritis"
+* ICHOM-CVDCOMORBIDITIES#22 "Periodontal Disease"
+* ICHOM-CVDCOMORBIDITIES#888 "Other Medical Problems"
